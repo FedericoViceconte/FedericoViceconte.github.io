@@ -1,0 +1,15 @@
+Portfolio de Federico Viceconte
+© 2026 Federico Viceconte. Todos los derechos reservados.
+
+Este repositorio es público para que el sitio pueda publicarse con GitHub Pages.
+Que el código sea visible no concede ninguna licencia sobre él.
+
+No se permite, sin autorización previa y por escrito del titular, copiar,
+modificar, redistribuir o reutilizar el diseño, los textos, las imágenes o el
+código del sitio, ni presentarlos como propios.
+
+Las capturas muestran proyectos que conservan sus propios avisos y licencias en
+sus repositorios. Los proyectos compartidos pertenecen también a sus coautores.
+
+Para pedir una autorización, contactar a Federico Viceconte por LinkedIn
+(https://www.linkedin.com/in/federico-viceconte/).
